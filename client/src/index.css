@@ -1,0 +1,10 @@
+.logout
+{
+    width: 15%;
+    height: 3vw;
+    background-color: rgb(11, 60, 151);
+    color: white;
+    float: right;
+    border: 0;
+    border-radius: 5px;
+}
